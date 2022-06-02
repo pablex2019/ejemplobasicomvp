@@ -1,0 +1,9 @@
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\bin\Debug\TrabajoPracticoN5.exe.config
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\bin\Debug\TrabajoPracticoN5.exe
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\bin\Debug\TrabajoPracticoN5.pdb
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\obj\Debug\TrabajoPracticoN5.csprojResolveAssemblyReference.cache
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\obj\Debug\TrabajoPracticoN5.Panel.resources
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\obj\Debug\TrabajoPracticoN5.Properties.Resources.resources
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\obj\Debug\TrabajoPracticoN5.csproj.GenerateResource.Cache
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\obj\Debug\TrabajoPracticoN5.exe
+c:\users\pablo\Documents\Visual Studio 2015\Projects\TrabajoPracticoN5\TrabajoPracticoN5\obj\Debug\TrabajoPracticoN5.pdb
